@@ -1,24 +1,9 @@
-# README
+# Sparta Global Hwk: Authorisation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*To use this app*, either log in as **user** nelly@gmail.co.uk with **password** biscuitbiscuit or make a new user and create new posts and cheeses.
 
-Things you may want to cover:
+* I found it easy to add the new Cheese resource and use authentication on this.
 
-* Ruby version
+* I researched using authorisation with Pundit but did not have enough time to research thoroughly enough. For that reason, I understand how Pundit works but struggled to implement the authorisation in my app.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* I would like to improve this by having different permissions for different types of users.
